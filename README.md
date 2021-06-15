@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @marjoleinpiek
+- 👀 I’m interested in non-Cartesian acquisition and reconstruction.
+- 🌱 I’m currently learning a lot!
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me: marjolein.piek@med.lu.se
